@@ -1,1 +1,2 @@
 - [markdown 的一些基础语法](docs/knowledge/markdown)
+- [vscode 插件项目创建](docs/knowledge/vscodeExtension)
