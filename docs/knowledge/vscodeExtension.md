@@ -10,9 +10,9 @@
 
 `yo code //会出现一个交互窗口提供一些初始化选项`
 选择插件类型（开发语言等，基本无脑下一步即可）
-![image.png](https://segmentfault.com/img/bVcWkmH)  
+![image.png](../../asset/2283433024-61a42d8c80f69_fix732.png)  
  使用 vscode 打开项目  
- ![image.png](https://segmentfault.com/img/bVcWknc)
+ ![image.png](../../asset/2079940459-61a42eb352746_fix732.png)
 
 ## 文件目录结构
 
@@ -41,7 +41,7 @@
 
 先按`F5`进入 vscode 自带的调试窗口，接着按`ctrl+shift+P`在顶部出现命令框，输入`Hello World`,出现如下界面即完成了插件项目的创建  
  （输入 F5 即进入 vscode 自带调试模式，也可运行`npm run watch`或者点击工具栏调试器）  
- ![image.png](https://segmentfault.com/img/bVcWkpG)
+ ![image.png](../../asset/2246620447-61a432895fa0f_fix732.png)
 
 ## 发布
 
