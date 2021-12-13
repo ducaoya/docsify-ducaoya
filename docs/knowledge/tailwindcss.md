@@ -143,5 +143,5 @@ npm run start
 
 ## 相关资料
 
-- [tailwind css 中文文档（据说并非官方在维护此文档）](https://www.tailwindcss.cn/docs/installation)（据说并非官方在维护此文档）
+- [tailwind css 中文文档](https://www.tailwindcss.cn/docs/installation)（据说并非官方在维护此文档）
 - [tailwind css 官方文档](https://tailwindcss.com/docs/installation)
