@@ -4,5 +4,6 @@
 
   - [markdown 的一些基础语法](docs/knowledge/markdown)
   - [vscode 插件项目创建](docs/knowledge/vscodeExtension)
+  - [react 项目中使用 tailwind css](docs/knowledge/tailwindcss)
 
 - [故事聚集地](docs/stories)
