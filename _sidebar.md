@@ -9,5 +9,6 @@
   - [编写一个屏蔽知乎视频的 Tampermonkey(油猴)插件](docs/knowledge/tampermonkey)
   - [非脚手架方式构建 React 项目](docs/knowledge/createReactApp)
   - [React 中使用拖拽](docs/knowledge/drag)
+  - [React 18 新特性](docs/knowledge/react18.md)
 
 - [故事聚集地](docs/stories)
